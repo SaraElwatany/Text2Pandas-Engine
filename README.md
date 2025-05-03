@@ -3,10 +3,15 @@
 Text2Pandas-Engine is a Python-based command engine that translates natural language queries into executable pandas commands. It enables users to interact with dataframes using intuitive text instructions, handling tasks like filtering, aggregating, sorting, and summarizing without needing to write pandas code manually.
 
 ## Features
+
 ✅ Convert natural language instructions into pandas operations
+
 ✅ Support for filtering, grouping, sorting, aggregations
+
 ✅ Modular design for easy extension
+
 ✅ Integration-ready with LLMs (e.g., LangChain) for prompt parsing
+
 ✅ Clear mapping from parsed intents to pandas command execution
 
 
