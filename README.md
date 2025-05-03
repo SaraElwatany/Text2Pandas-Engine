@@ -24,14 +24,14 @@ Text2Pandas-Engine is a Python-based command engine that translates natural lang
 ##  Installation
 
 ```bash
-
 git clone https://github.com/SaraElwatany/Text2Pandas-Engine.git
 cd text2pandas-engine
 pip install -r requirements.txt
+```
 
-```bash
 
 
 ## Contributing
+
 Contributions are welcome!
 Please open an issue or submit a pull request with improvements, bug fixes, or new features.
