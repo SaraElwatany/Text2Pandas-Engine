@@ -16,7 +16,7 @@ Text2Pandas-Engine is a Python-based command engine that translates natural lang
 
 
 ## Requirements
-- Python 3.8+
+- Python
 - pandas
 - LangChain library
 
